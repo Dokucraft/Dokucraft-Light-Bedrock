@@ -15,7 +15,7 @@ ROOT_SIGNATURE
 void main(in PS_Input PSInput, out PS_Output PSOutput)
 {
 
-float DST = lerp(1.0,0.0,pow(max(min(1.0-FOG_COLOR.r*1.5,1.0),0.0),1.2));
+float DST = lerp(1.0,0.0,pow(max(min(FOG_COLOR.r),0.0),1.2));
 float SST = clamp((CURRENT_COLOR.b-0.15)*1.1764706,0.0,1.0);
 
 float TD = (DST);
