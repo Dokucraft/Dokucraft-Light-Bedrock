@@ -26,12 +26,12 @@
           "path": "textures/blocks/grass_side",
           "overlay_color": "#753835"
         },
-		//Default \/
+				//Default \/
         {
           "path": "textures/blocks/grass_side",
           "overlay_color": "#88bb66"
         },
-		//Default \/
+				//Default \/
         {
           "path": "textures/blocks/grass_side",
           "overlay_color": "#86b87f"
@@ -40,7 +40,7 @@
           "path": "textures/blocks/grass_side",
           "overlay_color": "#53932F"
         },
-		//Default \/
+				//Default \/
         {
           "path": "textures/blocks/grass_side",
           "overlay_color": "#86b783"
@@ -58,7 +58,7 @@
           "overlay_color": "#53932F"
         },
         //Default \/
-		{
+				{
           "path": "textures/blocks/grass_side",
           "overlay_color": "#90814d"
         },
@@ -70,13 +70,16 @@
           "path": "textures/blocks/grass_side",
           "overlay_color": "#53932F"
         },
-		//Default \/
+				//Default \/
         {
           "path": "textures/blocks/grass_side",
           "overlay_color": "#507a32"
         },
         "textures/blocks/grass_side_snowed"
       ]
+    },
+		"crafting_table_bottom": {
+      "textures": "textures/blocks/crafting_table_bottom"
     }
   }
 }
