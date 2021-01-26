@@ -26,12 +26,10 @@
           "path": "textures/blocks/grass_side",
           "overlay_color": "#753835"
         },
-				//Default \/
         {
           "path": "textures/blocks/grass_side",
           "overlay_color": "#88bb66"
         },
-				//Default \/
         {
           "path": "textures/blocks/grass_side",
           "overlay_color": "#86b87f"
@@ -40,7 +38,6 @@
           "path": "textures/blocks/grass_side",
           "overlay_color": "#53932F"
         },
-				//Default \/
         {
           "path": "textures/blocks/grass_side",
           "overlay_color": "#86b783"
@@ -57,7 +54,6 @@
           "path": "textures/blocks/grass_side",
           "overlay_color": "#53932F"
         },
-        //Default \/
 				{
           "path": "textures/blocks/grass_side",
           "overlay_color": "#90814d"
@@ -70,7 +66,6 @@
           "path": "textures/blocks/grass_side",
           "overlay_color": "#53932F"
         },
-				//Default \/
         {
           "path": "textures/blocks/grass_side",
           "overlay_color": "#507a32"
@@ -78,8 +73,541 @@
         "textures/blocks/grass_side_snowed"
       ]
     },
+		"grass_top": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/grass/0" },
+					{ "path": "textures/blocks/grass/1" },
+					{ "path": "textures/blocks/grass/2" },
+					{ "path": "textures/blocks/grass/3" },
+					{ "path": "textures/blocks/grass/4" },
+					{ "path": "textures/blocks/grass/5" },
+					{ "path": "textures/blocks/grass/6" },
+					{ "path": "textures/blocks/grass/7" },
+					{ "path": "textures/blocks/grass/8" }
+				]
+      }
+		},
 		"crafting_table_bottom": {
       "textures": "textures/blocks/crafting_table_bottom"
-    }
+    },
+		"dirt": {
+			"textures": [
+				{
+					"variations": [
+						{ "path": "textures/blocks/dirt/0", "weight": 440 },
+						{ "path": "textures/blocks/dirt/1", "weight": 1 },
+						{ "path": "textures/blocks/dirt/2", "weight": 20 },
+						{ "path": "textures/blocks/dirt/3", "weight": 20 },
+						{ "path": "textures/blocks/dirt/4", "weight": 20 },
+						{ "path": "textures/blocks/dirt/5", "weight": 3 },
+						{ "path": "textures/blocks/dirt/6", "weight": 20 },
+						{ "path": "textures/blocks/dirt/7", "weight": 20 },
+						{ "path": "textures/blocks/dirt/8", "weight": 20 }
+					]
+				}, "textures/blocks/coarse_dirt/0"
+			]
+		},
+		"sand": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/sand/0", "weight": 4000 },
+					{ "path": "textures/blocks/sand/1", "weight": 8 },
+					{ "path": "textures/blocks/sand/2", "weight": 8 },
+					{ "path": "textures/blocks/sand/3", "weight": 8 },
+					{ "path": "textures/blocks/sand/4", "weight": 5 },
+					{ "path": "textures/blocks/sand/5", "weight": 10 },
+					{ "path": "textures/blocks/sand/6", "weight": 12 },
+					{ "path": "textures/blocks/sand/7", "weight": 1 },
+					{ "path": "textures/blocks/sand/8", "weight": 1 },
+					{ "path": "textures/blocks/sand/9", "weight": 1 }
+				]
+			}
+		},
+		"gravel": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/gravel/0", "weight": 300 },
+					{ "path": "textures/blocks/gravel/1", "weight": 300 },
+					{ "path": "textures/blocks/gravel/2", "weight": 300 },
+					{ "path": "textures/blocks/gravel/3", "weight": 300 },
+					{ "path": "textures/blocks/gravel/4", "weight": 300 },
+					{ "path": "textures/blocks/gravel/5", "weight": 5 },
+					{ "path": "textures/blocks/gravel/6", "weight": 5 },
+					{ "path": "textures/blocks/gravel/7", "weight": 5 },
+					{ "path": "textures/blocks/gravel/8", "weight": 5 },
+					{ "path": "textures/blocks/gravel/9", "weight": 5 },
+					{ "path": "textures/blocks/gravel/10", "weight": 5 },
+					{ "path": "textures/blocks/gravel/11", "weight": 5 },
+					{ "path": "textures/blocks/gravel/12", "weight": 5 },
+					{ "path": "textures/blocks/gravel/13", "weight": 5 },
+					{ "path": "textures/blocks/gravel/14", "weight": 5 },
+					{ "path": "textures/blocks/gravel/15", "weight": 5 },
+					{ "path": "textures/blocks/gravel/16", "weight": 5 },
+					{ "path": "textures/blocks/gravel/17", "weight": 5 },
+					{ "path": "textures/blocks/gravel/18", "weight": 5 },
+					{ "path": "textures/blocks/gravel/19", "weight": 5 },
+					{ "path": "textures/blocks/gravel/20", "weight": 5 },
+					{ "path": "textures/blocks/gravel/21", "weight": 5 },
+					{ "path": "textures/blocks/gravel/22", "weight": 5 },
+					{ "path": "textures/blocks/gravel/23", "weight": 5 },
+					{ "path": "textures/blocks/gravel/24", "weight": 5 },
+					{ "path": "textures/blocks/gravel/25", "weight": 5 }
+				]
+			}
+		},
+		"grass_path_top": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/path/0", "weight": 1000 },
+					{ "path": "textures/blocks/path/1", "weight": 30 },
+					{ "path": "textures/blocks/path/2", "weight": 10 },
+					{ "path": "textures/blocks/path/3", "weight": 20 },
+					{ "path": "textures/blocks/path/4", "weight": 10 },
+					{ "path": "textures/blocks/path/5", "weight": 2 }
+				]
+			}
+		},
+		"polished_basalt_side": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/polished_basalt/side_0", "weight": 1000 },
+					{ "path": "textures/blocks/polished_basalt/side_1", "weight": 1001 },
+					{ "path": "textures/blocks/polished_basalt/side_2", "weight": 1002 },
+					{ "path": "textures/blocks/polished_basalt/side_3", "weight": 1003 },
+					{ "path": "textures/blocks/polished_basalt/side_4", "weight": 1004 },
+					{ "path": "textures/blocks/polished_basalt/side_5", "weight": 1005 },
+					{ "path": "textures/blocks/polished_basalt/side_6", "weight": 1006 },
+					{ "path": "textures/blocks/polished_basalt/side_7", "weight": 1007 }
+				]
+			}
+		},
+		"polished_basalt_top": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/polished_basalt/ends_0", "weight": 20100 },
+					{ "path": "textures/blocks/polished_basalt/ends_1", "weight": 1101 },
+					{ "path": "textures/blocks/polished_basalt/ends_2", "weight": 1102 },
+					{ "path": "textures/blocks/polished_basalt/ends_3", "weight": 1103 },
+					{ "path": "textures/blocks/polished_basalt/ends_4", "weight": 1104 },
+					{ "path": "textures/blocks/polished_basalt/ends_5", "weight": 1105 },
+					{ "path": "textures/blocks/polished_basalt/ends_6", "weight": 1106 },
+					{ "path": "textures/blocks/polished_basalt/ends_7", "weight": 1107 },
+					{ "path": "textures/blocks/polished_basalt/ends_8", "weight": 1108 },
+					{ "path": "textures/blocks/polished_basalt/ends_9", "weight": 1109 },
+					{ "path": "textures/blocks/polished_basalt/ends_a", "weight": 1110 },
+					{ "path": "textures/blocks/polished_basalt/ends_b", "weight": 1111 },
+					{ "path": "textures/blocks/polished_basalt/ends_c", "weight": 1112 },
+					{ "path": "textures/blocks/polished_basalt/ends_d", "weight": 1113 },
+					{ "path": "textures/blocks/polished_basalt/ends_e", "weight": 1114 },
+					{ "path": "textures/blocks/polished_basalt/ends_f", "weight": 1115 }
+				]
+			}
+		},
+		"basalt_side": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/basalt/sides_0", "weight": 1000 },
+					{ "path": "textures/blocks/basalt/sides_1", "weight": 1001 },
+					{ "path": "textures/blocks/basalt/sides_2", "weight": 1002 },
+					{ "path": "textures/blocks/basalt/sides_3", "weight": 1003 },
+					{ "path": "textures/blocks/basalt/sides_4", "weight": 1004 },
+					{ "path": "textures/blocks/basalt/sides_5", "weight": 1005 },
+					{ "path": "textures/blocks/basalt/sides_6", "weight": 1006 },
+					{ "path": "textures/blocks/basalt/sides_7", "weight": 1007 },
+					{ "path": "textures/blocks/basalt/sides_8", "weight": 1008 },
+					{ "path": "textures/blocks/basalt/sides_9", "weight": 1009 },
+					{ "path": "textures/blocks/basalt/sides_a", "weight": 1010 },
+					{ "path": "textures/blocks/basalt/sides_b", "weight": 1011 },
+					{ "path": "textures/blocks/basalt/sides_c", "weight": 1012 },
+					{ "path": "textures/blocks/basalt/sides_d", "weight": 1013 },
+					{ "path": "textures/blocks/basalt/sides_e", "weight": 1014 },
+					{ "path": "textures/blocks/basalt/sides_f", "weight": 1015 }
+				]
+			}
+		},
+		"basalt_top": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/basalt/ends_0", "weight": 1100 },
+					{ "path": "textures/blocks/basalt/ends_1", "weight": 1101 }
+				]
+			}
+		},
+		"red_flower": {
+			"textures": [
+				{
+					"variations": [
+						{ "path": "textures/blocks/flower/poppy/0" },
+						{ "path": "textures/blocks/flower/poppy/1" },
+						{ "path": "textures/blocks/flower/poppy/2" },
+						{ "path": "textures/blocks/flower/poppy/3" },
+						{ "path": "textures/blocks/flower/poppy/4" }
+					]
+				},
+				"textures/blocks/flower_blue_orchid",
+				"textures/blocks/flower_allium",
+				"textures/blocks/flower_houstonia",
+				{
+					"variations": [
+						{ "path": "textures/blocks/flower/red_tulip/0" },
+						{ "path": "textures/blocks/flower/red_tulip/1" },
+						{ "path": "textures/blocks/flower/red_tulip/2" },
+						{ "path": "textures/blocks/flower/red_tulip/3" }
+					]
+				},
+				{
+					"variations": [
+						{ "path": "textures/blocks/flower/orange_tulip/0" },
+						{ "path": "textures/blocks/flower/orange_tulip/1" },
+						{ "path": "textures/blocks/flower/orange_tulip/2" },
+						{ "path": "textures/blocks/flower/orange_tulip/3" }
+					]
+				},
+				{
+					"variations": [
+						{ "path": "textures/blocks/flower/white_tulip/0" },
+						{ "path": "textures/blocks/flower/white_tulip/1" },
+						{ "path": "textures/blocks/flower/white_tulip/2" },
+						{ "path": "textures/blocks/flower/white_tulip/3" }
+					]
+				},
+				{
+					"variations": [
+						{ "path": "textures/blocks/flower/pink_tulip/0" },
+						{ "path": "textures/blocks/flower/pink_tulip/1" },
+						{ "path": "textures/blocks/flower/pink_tulip/2" },
+						{ "path": "textures/blocks/flower/pink_tulip/3" }
+					]
+				},
+				"textures/blocks/flower_oxeye_daisy",
+				"textures/blocks/flower_cornflower",
+				"textures/blocks/flower_lily_of_the_valley"
+			]
+    },
+		"yellow_flower": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/flower/dandelion/0" },
+					{ "path": "textures/blocks/flower/dandelion/1" },
+					{ "path": "textures/blocks/flower/dandelion/2" },
+					{ "path": "textures/blocks/flower/dandelion/3" }
+				]
+			}
+    },
+		"deadbush": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/flower/dead_bush/0" },
+					{ "path": "textures/blocks/flower/dead_bush/1" },
+					{ "path": "textures/blocks/flower/dead_bush/2" },
+					{ "path": "textures/blocks/flower/dead_bush/3" },
+					{ "path": "textures/blocks/flower/dead_bush/4" }
+				]
+			}
+    },
+		"gold_ore": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/ore/gold/0" },
+					{ "path": "textures/blocks/ore/gold/1" },
+					{ "path": "textures/blocks/ore/gold/2" },
+					{ "path": "textures/blocks/ore/gold/3" }
+				]
+			}
+		},
+		"iron_ore": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/ore/iron/0" },
+					{ "path": "textures/blocks/ore/iron/1" },
+					{ "path": "textures/blocks/ore/iron/2" },
+					{ "path": "textures/blocks/ore/iron/3" }
+				]
+			}
+		},
+		"lapis_ore": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/ore/lapis/0" },
+					{ "path": "textures/blocks/ore/lapis/1" },
+					{ "path": "textures/blocks/ore/lapis/2" },
+					{ "path": "textures/blocks/ore/lapis/3" }
+				]
+			}
+		},
+		"mushroom_brown": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/mushroom/brown/0" },
+					{ "path": "textures/blocks/mushroom/brown/1" },
+					{ "path": "textures/blocks/mushroom/brown/2" },
+					{ "path": "textures/blocks/mushroom/brown/3" },
+					{ "path": "textures/blocks/mushroom/brown/4" },
+					{ "path": "textures/blocks/mushroom/brown/5" },
+					{ "path": "textures/blocks/mushroom/brown/6" },
+					{ "path": "textures/blocks/mushroom/brown/7" }
+				]
+			}
+		},
+		"mushroom_red": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/mushroom/red/0" },
+					{ "path": "textures/blocks/mushroom/red/1" },
+					{ "path": "textures/blocks/mushroom/red/2" },
+					{ "path": "textures/blocks/mushroom/red/3" },
+					{ "path": "textures/blocks/mushroom/red/4" },
+					{ "path": "textures/blocks/mushroom/red/5" },
+					{ "path": "textures/blocks/mushroom/red/6" },
+					{ "path": "textures/blocks/mushroom/red/7" },
+					{ "path": "textures/blocks/mushroom/red/8" },
+					{ "path": "textures/blocks/mushroom/red/9" },
+					{ "path": "textures/blocks/mushroom/red/10" },
+					{ "path": "textures/blocks/mushroom/red/11" }
+				]
+			}
+		},
+		"nether_shroom_red": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/mushroom/crimson/0" },
+					{ "path": "textures/blocks/mushroom/crimson/1" },
+					{ "path": "textures/blocks/mushroom/crimson/2" }
+				]
+			}
+		},
+		"nether_shroom_blue": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/mushroom/warped/0" },
+					{ "path": "textures/blocks/mushroom/warped/1" },
+					{ "path": "textures/blocks/mushroom/warped/2" }
+				]
+			}
+		},
+		"cobblestone": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/cobblestone/0", "weight":30 },
+					{ "path": "textures/blocks/cobblestone/1", "weight":20 },
+					{ "path": "textures/blocks/cobblestone/2", "weight":20 },
+					{ "path": "textures/blocks/cobblestone/3", "weight":20 },
+					{ "path": "textures/blocks/cobblestone/4", "weight":40 },
+					{ "path": "textures/blocks/cobblestone/5", "weight":20 },
+					{ "path": "textures/blocks/cobblestone/6", "weight":5 },
+					{ "path": "textures/blocks/cobblestone/7", "weight":20 },
+					{ "path": "textures/blocks/cobblestone/8", "weight":5 }
+				]
+			}
+		},
+		"cobblestone_mossy": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/mossy_cobblestone/0", "weight":30 },
+					{ "path": "textures/blocks/mossy_cobblestone/1", "weight":20 },
+					{ "path": "textures/blocks/mossy_cobblestone/2", "weight":20 },
+					{ "path": "textures/blocks/mossy_cobblestone/3", "weight":20 },
+					{ "path": "textures/blocks/mossy_cobblestone/4", "weight":40 },
+					{ "path": "textures/blocks/mossy_cobblestone/5", "weight":20 },
+					{ "path": "textures/blocks/mossy_cobblestone/6", "weight":5 },
+					{ "path": "textures/blocks/mossy_cobblestone/7", "weight":20 },
+					{ "path": "textures/blocks/mossy_cobblestone/8", "weight":5 }
+				]
+			}
+		},
+		"blackstone": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/blackstone/0"},
+					{ "path": "textures/blocks/blackstone/1"},
+					{ "path": "textures/blocks/blackstone/2"},
+					{ "path": "textures/blocks/blackstone/3"}
+				]
+			}
+		},
+		"web": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/cobweb/0" },
+					{ "path": "textures/blocks/cobweb/1" },
+					{ "path": "textures/blocks/cobweb/2" },
+					{ "path": "textures/blocks/cobweb/3" },
+					{ "path": "textures/blocks/cobweb/4" },
+					{ "path": "textures/blocks/cobweb/5" },
+					{ "path": "textures/blocks/cobweb/6" },
+					{ "path": "textures/blocks/cobweb/7" },
+					{ "path": "textures/blocks/cobweb/8" },
+					{ "path": "textures/blocks/cobweb/9" },
+					{ "path": "textures/blocks/cobweb/10" },
+					{ "path": "textures/blocks/cobweb/11" },
+					{ "path": "textures/blocks/cobweb/12" }
+				]
+			}
+		},
+		"cracked_nether_bricks": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/cracked_nether_bricks/0", "weight":100 },
+					{ "path": "textures/blocks/cracked_nether_bricks/1", "weight":15 },
+					{ "path": "textures/blocks/cracked_nether_bricks/2", "weight":15 },
+					{ "path": "textures/blocks/cracked_nether_bricks/3", "weight":2 },
+					{ "path": "textures/blocks/cracked_nether_bricks/4", "weight":2 },
+					{ "path": "textures/blocks/cracked_nether_bricks/5", "weight":5 }
+				]
+			}
+		},
+		"gilded_blackstone": {
+			"textures": {
+				"variations": [
+					{ "path": "textures/blocks/gilded_blackstone/0"},
+					{ "path": "textures/blocks/gilded_blackstone/1"},
+					{ "path": "textures/blocks/gilded_blackstone/2"},
+					{ "path": "textures/blocks/gilded_blackstone/3"}
+				]
+			}
+		},
+		"log2": {
+			"textures": [
+				"textures/blocks/acacia_log",
+				{
+					"variations": [
+						{ "path": "textures/blocks/log/acacia/0" },
+						{ "path": "textures/blocks/log/acacia/1" },
+						{ "path": "textures/blocks/log/acacia/2" },
+						{ "path": "textures/blocks/log/acacia/3" },
+						{ "path": "textures/blocks/log/acacia/4" },
+						{ "path": "textures/blocks/log/acacia/5" },
+						{ "path": "textures/blocks/log/acacia/6" },
+						{ "path": "textures/blocks/log/acacia/7" },
+						{ "path": "textures/blocks/log/acacia/8" },
+						{ "path": "textures/blocks/log/acacia/9" },
+						{ "path": "textures/blocks/log/acacia/10" },
+						{ "path": "textures/blocks/log/acacia/11" }
+					]
+				},
+				"textures/blocks/dark_oak_log",
+				{
+					"variations": [
+						{ "path": "textures/blocks/log/dark_oak/0" },
+						{ "path": "textures/blocks/log/dark_oak/1" },
+						{ "path": "textures/blocks/log/dark_oak/2" },
+						{ "path": "textures/blocks/log/dark_oak/3" },
+						{ "path": "textures/blocks/log/dark_oak/4" },
+						{ "path": "textures/blocks/log/dark_oak/5" },
+						{ "path": "textures/blocks/log/dark_oak/6" },
+						{ "path": "textures/blocks/log/dark_oak/7" },
+						{ "path": "textures/blocks/log/dark_oak/8" },
+						{ "path": "textures/blocks/log/dark_oak/9" },
+						{ "path": "textures/blocks/log/dark_oak/10" },
+						{ "path": "textures/blocks/log/dark_oak/11" }
+					]
+				}
+			]
+		},
+		"log_top": {
+			"textures": [
+				{
+					"variations": [
+						{ "path": "textures/blocks/log/oak/0" },
+						{ "path": "textures/blocks/log/oak/1" },
+						{ "path": "textures/blocks/log/oak/2" },
+						{ "path": "textures/blocks/log/oak/3" },
+						{ "path": "textures/blocks/log/oak/4" },
+						{ "path": "textures/blocks/log/oak/5" },
+						{ "path": "textures/blocks/log/oak/6" },
+						{ "path": "textures/blocks/log/oak/7" },
+						{ "path": "textures/blocks/log/oak/8" },
+						{ "path": "textures/blocks/log/oak/9" },
+						{ "path": "textures/blocks/log/oak/10" },
+						{ "path": "textures/blocks/log/oak/11" }
+					]
+				},
+				{
+					"variations": [
+						{ "path": "textures/blocks/log/spruce/0" },
+						{ "path": "textures/blocks/log/spruce/1" },
+						{ "path": "textures/blocks/log/spruce/2" },
+						{ "path": "textures/blocks/log/spruce/3" },
+						{ "path": "textures/blocks/log/spruce/4" },
+						{ "path": "textures/blocks/log/spruce/5" },
+						{ "path": "textures/blocks/log/spruce/6" },
+						{ "path": "textures/blocks/log/spruce/7" },
+						{ "path": "textures/blocks/log/spruce/8" },
+						{ "path": "textures/blocks/log/spruce/9" },
+						{ "path": "textures/blocks/log/spruce/10" },
+						{ "path": "textures/blocks/log/spruce/11" }
+					]
+				},
+				{
+					"variations": [
+						{ "path": "textures/blocks/log/birch/0" },
+						{ "path": "textures/blocks/log/birch/1" },
+						{ "path": "textures/blocks/log/birch/2" },
+						{ "path": "textures/blocks/log/birch/3" },
+						{ "path": "textures/blocks/log/birch/4" },
+						{ "path": "textures/blocks/log/birch/5" },
+						{ "path": "textures/blocks/log/birch/6" },
+						{ "path": "textures/blocks/log/birch/7" },
+						{ "path": "textures/blocks/log/birch/8" },
+						{ "path": "textures/blocks/log/birch/9" },
+						{ "path": "textures/blocks/log/birch/10" },
+						{ "path": "textures/blocks/log/birch/11" }
+					]
+				},
+				{
+					"variations": [
+						{ "path": "textures/blocks/log/jungle/0" },
+						{ "path": "textures/blocks/log/jungle/1" },
+						{ "path": "textures/blocks/log/jungle/2" },
+						{ "path": "textures/blocks/log/jungle/3" },
+						{ "path": "textures/blocks/log/jungle/4" },
+						{ "path": "textures/blocks/log/jungle/5" },
+						{ "path": "textures/blocks/log/jungle/6" },
+						{ "path": "textures/blocks/log/jungle/7" },
+						{ "path": "textures/blocks/log/jungle/8" },
+						{ "path": "textures/blocks/log/jungle/9" },
+						{ "path": "textures/blocks/log/jungle/10" },
+						{ "path": "textures/blocks/log/jungle/11" }
+					]
+				}
+			]
+		},
+		"log_top2": {
+			"textures": [
+				{
+					"variations": [
+						{ "path": "textures/blocks/log/acacia/0" },
+						{ "path": "textures/blocks/log/acacia/1" },
+						{ "path": "textures/blocks/log/acacia/2" },
+						{ "path": "textures/blocks/log/acacia/3" },
+						{ "path": "textures/blocks/log/acacia/4" },
+						{ "path": "textures/blocks/log/acacia/5" },
+						{ "path": "textures/blocks/log/acacia/6" },
+						{ "path": "textures/blocks/log/acacia/7" },
+						{ "path": "textures/blocks/log/acacia/8" },
+						{ "path": "textures/blocks/log/acacia/9" },
+						{ "path": "textures/blocks/log/acacia/10" },
+						{ "path": "textures/blocks/log/acacia/11" }
+					]
+				},
+				{
+					"variations": [
+						{ "path": "textures/blocks/log/dark_oak/0" },
+						{ "path": "textures/blocks/log/dark_oak/1" },
+						{ "path": "textures/blocks/log/dark_oak/2" },
+						{ "path": "textures/blocks/log/dark_oak/3" },
+						{ "path": "textures/blocks/log/dark_oak/4" },
+						{ "path": "textures/blocks/log/dark_oak/5" },
+						{ "path": "textures/blocks/log/dark_oak/6" },
+						{ "path": "textures/blocks/log/dark_oak/7" },
+						{ "path": "textures/blocks/log/dark_oak/8" },
+						{ "path": "textures/blocks/log/dark_oak/9" },
+						{ "path": "textures/blocks/log/dark_oak/10" },
+						{ "path": "textures/blocks/log/dark_oak/11" }
+					]
+				}
+			]
+		}
   }
 }

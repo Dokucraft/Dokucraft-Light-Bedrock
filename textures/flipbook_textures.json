@@ -1,5 +1,5 @@
 /****************************
-+*		Dokucraft Light		*
++*    Dokucraft Light    *
 +****************************/
 [
   {
@@ -15,7 +15,7 @@
   {
     "flipbook_texture": "textures/blocks/campfire",
     "atlas_tile": "campfire_fire",
-	"frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 ]
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 ]
   },
   {
     "flipbook_texture": "textures/blocks/campfire_log_lit",
@@ -45,7 +45,7 @@
   {
     "flipbook_texture": "textures/blocks/crying_obsidian",
     "atlas_tile": "crying_obsidian",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3,4,5 ]
   },
   {
@@ -76,37 +76,37 @@
   {
     "flipbook_texture": "textures/blocks/huge_fungus/crimson_log_side",
     "atlas_tile": "crimson_log_side",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
   },
   {
     "flipbook_texture": "textures/blocks/huge_fungus/crimson_log_top",
     "atlas_tile": "crimson_log_top",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
   },
   {
     "flipbook_texture": "textures/blocks/jigsaw_back",
     "atlas_tile": "jigsaw_back",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3 ]
   },
   {
     "flipbook_texture": "textures/blocks/jigsaw_front",
     "atlas_tile": "jigsaw_front",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3 ]
   },
   {
     "flipbook_texture": "textures/blocks/jigsaw_lock",
     "atlas_tile": "jigsaw_lock",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3 ]
   },
   {
     "flipbook_texture": "textures/blocks/jigsaw_side",
     "atlas_tile": "jigsaw_side",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3 ]
   },
   {
@@ -142,7 +142,7 @@
   { 
     "flipbook_texture": "textures/blocks/lantern",
     "atlas_tile": "lantern",
-	"frames": [ 0,1,2,3,4 ]
+    "frames": [ 0,1,2,3,4 ]
   },
   {
     "flipbook_texture": "textures/blocks/lava_flow",
@@ -156,13 +156,14 @@
   },
   {
     "flipbook_texture": "textures/blocks/magma",
-	"ticks_per_frame": 40,
+		"atlas_tile": "magma",
+    "ticks_per_frame": 40,
     "frames": [ 0,1 ]
   },
   { 
     "flipbook_texture": "textures/blocks/observer_back_lit",
     "atlas_tile": "observer_back_lit",
-	"frames": [ 0,1 ]
+    "frames": [ 0,1 ]
   },
   {
     "flipbook_texture": "textures/blocks/portal",
@@ -277,7 +278,7 @@
   {
     "flipbook_texture": "textures/blocks/shroomlight",
     "atlas_tile": "shroomlight",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3 ]
   },
   {
@@ -288,7 +289,7 @@
   {
     "flipbook_texture": "textures/blocks/soul_campfire",
     "atlas_tile": "soul_campfire",
-	"frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
   },
   {
     "flipbook_texture": "textures/blocks/soul_campfire_log_lit",
@@ -308,7 +309,7 @@
   {
     "flipbook_texture": "textures/blocks/soul_lantern",
     "atlas_tile": "soul_lantern",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3,4 ]
   },
   {
@@ -331,19 +332,19 @@
   {
     "flipbook_texture": "textures/blocks/huge_fungus/warped_stem_side",
     "atlas_tile": "warped_stem_side",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
   },
   {
     "flipbook_texture": "textures/blocks/warped_roots",
     "atlas_tile": "warped_roots",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1 ]
   },
   {
     "flipbook_texture": "textures/blocks/warped_roots_pot",
     "atlas_tile": "warped_roots_pot",
-	"ticks_per_frame": 20,
+    "ticks_per_frame": 20,
     "frames": [ 0,1 ]
   },
   {
@@ -492,7 +493,7 @@
   {
     "flipbook_texture": "textures/items/compass_atlas",
     "atlas_tile": "compass_atlas",
-	"frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
   },
   {
     "flipbook_texture": "textures/items/diamond",
@@ -552,7 +553,7 @@
   {
     "flipbook_texture": "textures/items/honeycomb",
     "atlas_tile": "honeycomb",
-	"frames": [ 0,1,2,3,4,5,6,7 ]
+    "frames": [ 0,1,2,3,4,5,6,7 ]
   },
   {
     "flipbook_texture": "textures/items/iron_ingot",
@@ -582,21 +583,21 @@
 	{
     "flipbook_texture": "textures/items/slimeball",
     "atlas_tile": "slimeball",
-	"frames": [ 0,1,2,3,4,5,6,7 ]
+    "frames": [ 0,1,2,3,4,5,6,7 ]
   },
 	{
     "flipbook_texture": "textures/items/spider_eye_fermented",
     "atlas_tile": "spider_eye_fermented",
-	"frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
   },
   {
     "flipbook_texture": "textures/items/suspicious_stew",
     "atlas_tile": "suspicious_stew",
-	"frames": [ 0,1,2,3,4,5 ]
+    "frames": [ 0,1,2,3,4,5 ]
   },
   {
     "flipbook_texture": "textures/items/watch_atlas",
     "atlas_tile": "watch_atlas",
-	"frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63 ]
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63 ]
   }
 ]
