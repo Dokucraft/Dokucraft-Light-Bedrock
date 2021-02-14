@@ -105,7 +105,7 @@
 						{ "path": "textures/blocks/dirt/7", "weight": 20 },
 						{ "path": "textures/blocks/dirt/8", "weight": 20 }
 					]
-				}, "textures/blocks/coarse_dirt/0"
+				}, "textures/blocks/coarse_dirt"
 			]
 		},
 		"sand": {
@@ -238,11 +238,11 @@
 			"textures": [
 				{
 					"variations": [
-						{ "path": "textures/blocks/flower/poppy/0" },
-						{ "path": "textures/blocks/flower/poppy/1" },
-						{ "path": "textures/blocks/flower/poppy/2" },
-						{ "path": "textures/blocks/flower/poppy/3" },
-						{ "path": "textures/blocks/flower/poppy/4" }
+						{ "path": "textures/blocks/plants/poppy/0" },
+						{ "path": "textures/blocks/plants/poppy/1" },
+						{ "path": "textures/blocks/plants/poppy/2" },
+						{ "path": "textures/blocks/plants/poppy/3" },
+						{ "path": "textures/blocks/plants/poppy/4" }
 					]
 				},
 				"textures/blocks/flower_blue_orchid",
@@ -250,34 +250,34 @@
 				"textures/blocks/flower_houstonia",
 				{
 					"variations": [
-						{ "path": "textures/blocks/flower/red_tulip/0" },
-						{ "path": "textures/blocks/flower/red_tulip/1" },
-						{ "path": "textures/blocks/flower/red_tulip/2" },
-						{ "path": "textures/blocks/flower/red_tulip/3" }
+						{ "path": "textures/blocks/plants/red_tulip/0" },
+						{ "path": "textures/blocks/plants/red_tulip/1" },
+						{ "path": "textures/blocks/plants/red_tulip/2" },
+						{ "path": "textures/blocks/plants/red_tulip/3" }
 					]
 				},
 				{
 					"variations": [
-						{ "path": "textures/blocks/flower/orange_tulip/0" },
-						{ "path": "textures/blocks/flower/orange_tulip/1" },
-						{ "path": "textures/blocks/flower/orange_tulip/2" },
-						{ "path": "textures/blocks/flower/orange_tulip/3" }
+						{ "path": "textures/blocks/plants/orange_tulip/0" },
+						{ "path": "textures/blocks/plants/orange_tulip/1" },
+						{ "path": "textures/blocks/plants/orange_tulip/2" },
+						{ "path": "textures/blocks/plants/orange_tulip/3" }
 					]
 				},
 				{
 					"variations": [
-						{ "path": "textures/blocks/flower/white_tulip/0" },
-						{ "path": "textures/blocks/flower/white_tulip/1" },
-						{ "path": "textures/blocks/flower/white_tulip/2" },
-						{ "path": "textures/blocks/flower/white_tulip/3" }
+						{ "path": "textures/blocks/plants/white_tulip/0" },
+						{ "path": "textures/blocks/plants/white_tulip/1" },
+						{ "path": "textures/blocks/plants/white_tulip/2" },
+						{ "path": "textures/blocks/plants/white_tulip/3" }
 					]
 				},
 				{
 					"variations": [
-						{ "path": "textures/blocks/flower/pink_tulip/0" },
-						{ "path": "textures/blocks/flower/pink_tulip/1" },
-						{ "path": "textures/blocks/flower/pink_tulip/2" },
-						{ "path": "textures/blocks/flower/pink_tulip/3" }
+						{ "path": "textures/blocks/plants/pink_tulip/0" },
+						{ "path": "textures/blocks/plants/pink_tulip/1" },
+						{ "path": "textures/blocks/plants/pink_tulip/2" },
+						{ "path": "textures/blocks/plants/pink_tulip/3" }
 					]
 				},
 				"textures/blocks/flower_oxeye_daisy",
@@ -288,21 +288,21 @@
 		"yellow_flower": {
 			"textures": {
 				"variations": [
-					{ "path": "textures/blocks/flower/dandelion/0" },
-					{ "path": "textures/blocks/flower/dandelion/1" },
-					{ "path": "textures/blocks/flower/dandelion/2" },
-					{ "path": "textures/blocks/flower/dandelion/3" }
+					{ "path": "textures/blocks/plants/dandelion/0" },
+					{ "path": "textures/blocks/plants/dandelion/1" },
+					{ "path": "textures/blocks/plants/dandelion/2" },
+					{ "path": "textures/blocks/plants/dandelion/3" }
 				]
 			}
     },
 		"deadbush": {
 			"textures": {
 				"variations": [
-					{ "path": "textures/blocks/flower/dead_bush/0" },
-					{ "path": "textures/blocks/flower/dead_bush/1" },
-					{ "path": "textures/blocks/flower/dead_bush/2" },
-					{ "path": "textures/blocks/flower/dead_bush/3" },
-					{ "path": "textures/blocks/flower/dead_bush/4" }
+					{ "path": "textures/blocks/plants/dead_bush/0" },
+					{ "path": "textures/blocks/plants/dead_bush/1" },
+					{ "path": "textures/blocks/plants/dead_bush/2" },
+					{ "path": "textures/blocks/plants/dead_bush/3" },
+					{ "path": "textures/blocks/plants/dead_bush/4" }
 				]
 			}
     },
