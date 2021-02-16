@@ -354,7 +354,7 @@
 			]
 		},
 		"cartography_table_bottom" : {
-			"textures" : "textures/blocks/dark_oak_planks"
+			"textures" : "textures/blocks/cartography_table_bottom"
 		},
 		"cartography_table_side1" : {
 			"textures" : "textures/blocks/cartography_table_side_1"

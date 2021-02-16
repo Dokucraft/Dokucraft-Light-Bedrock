@@ -192,7 +192,7 @@
     "atlas_tile": "pumpkin_face_on"
   },
   {
-    "flipbook_texture": "textures/blocks/detector_rail_on",
+    "flipbook_texture": "textures/blocks/activator_rail_on",
     "atlas_tile": "rail_activator_powered",
 		"ticks_per_frame": 20
   },
