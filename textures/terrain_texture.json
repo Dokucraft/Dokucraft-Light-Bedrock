@@ -327,8 +327,86 @@
     },
     "cobblestone_wall": {
       "textures": [
-        "textures/blocks/cobblestone",
-        "textures/blocks/cobblestone_mossy",
+        {
+					"variations": [
+						{
+						  "path": "textures/blocks/cobblestone/0",
+						  "weight": 30
+						},
+						{
+						  "path": "textures/blocks/cobblestone/1",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/2",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/3",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/4",
+						  "weight": 40
+						},
+						{
+						  "path": "textures/blocks/cobblestone/5",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/6",
+						  "weight": 5
+						},
+						{
+						  "path": "textures/blocks/cobblestone/7",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/8",
+						  "weight": 5
+						}
+					]
+				},
+        {
+					"variations": [
+						{
+							"path": "textures/blocks/mossy_cobblestone/0",
+							"weight": 30
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/1",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/2",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/3",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/4",
+							"weight": 40
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/5",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/6",
+							"weight": 5
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/7",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/8",
+							"weight": 5
+						}
+					]
+				},
         "textures/blocks/granite",
         "textures/blocks/diorite",
         "textures/blocks/andesite",
@@ -1561,7 +1639,46 @@
     },
     "monster_egg": {
       "textures": [
-        "textures/blocks/cobblestone",
+        {
+					"variations": [
+						{
+						  "path": "textures/blocks/cobblestone/0",
+						  "weight": 30
+						},
+						{
+						  "path": "textures/blocks/cobblestone/1",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/2",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/3",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/4",
+						  "weight": 40
+						},
+						{
+						  "path": "textures/blocks/cobblestone/5",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/6",
+						  "weight": 5
+						},
+						{
+						  "path": "textures/blocks/cobblestone/7",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/8",
+						  "weight": 5
+						}
+					]
+				},
         "textures/blocks/stone_bricks",
         "textures/blocks/mossy_stone_bricks",
         "textures/blocks/cracked_stone_bricks",
@@ -2553,7 +2670,46 @@
         "textures/blocks/smooth_stone",
         "textures/blocks/sandstone_bottom",
         "textures/blocks/oak_planks",
-        "textures/blocks/cobblestone",
+        {
+					"variations": [
+						{
+						  "path": "textures/blocks/cobblestone/0",
+						  "weight": 30
+						},
+						{
+						  "path": "textures/blocks/cobblestone/1",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/2",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/3",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/4",
+						  "weight": 40
+						},
+						{
+						  "path": "textures/blocks/cobblestone/5",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/6",
+						  "weight": 5
+						},
+						{
+						  "path": "textures/blocks/cobblestone/7",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/8",
+						  "weight": 5
+						}
+					]
+				},
         "textures/blocks/bricks",
         "textures/blocks/stone_bricks",
         "textures/blocks/quartz_block_top",
@@ -2567,7 +2723,46 @@
         "textures/blocks/prismarine",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks",
-        "textures/blocks/cobblestone_mossy",
+        {
+					"variations": [
+						{
+							"path": "textures/blocks/mossy_cobblestone/0",
+							"weight": 30
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/1",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/2",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/3",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/4",
+							"weight": 40
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/5",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/6",
+							"weight": 5
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/7",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/8",
+							"weight": 5
+						}
+					]
+				},
         "textures/blocks/sandstone_top",
         "textures/blocks/red_nether_bricks"
       ]
@@ -2598,7 +2793,46 @@
         "textures/blocks/smooth_stone_slab_side",
         "textures/blocks/sandstone",
         "textures/blocks/oak_planks",
-        "textures/blocks/cobblestone",
+        {
+					"variations": [
+						{
+						  "path": "textures/blocks/cobblestone/0",
+						  "weight": 30
+						},
+						{
+						  "path": "textures/blocks/cobblestone/1",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/2",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/3",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/4",
+						  "weight": 40
+						},
+						{
+						  "path": "textures/blocks/cobblestone/5",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/6",
+						  "weight": 5
+						},
+						{
+						  "path": "textures/blocks/cobblestone/7",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/8",
+						  "weight": 5
+						}
+					]
+				},
         "textures/blocks/bricks",
         "textures/blocks/stone_bricks",
         "textures/blocks/quartz_block_side",
@@ -2612,7 +2846,46 @@
         "textures/blocks/prismarine",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks",
-        "textures/blocks/cobblestone_mossy",
+        {
+					"variations": [
+						{
+							"path": "textures/blocks/mossy_cobblestone/0",
+							"weight": 30
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/1",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/2",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/3",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/4",
+							"weight": 40
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/5",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/6",
+							"weight": 5
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/7",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/8",
+							"weight": 5
+						}
+					]
+				},
         "textures/blocks/sandstone_top",
         "textures/blocks/red_nether_bricks"
       ]
@@ -2643,7 +2916,46 @@
         "textures/blocks/smooth_stone",
         "textures/blocks/sandstone_top",
         "textures/blocks/oak_planks",
-        "textures/blocks/cobblestone",
+        {
+					"variations": [
+						{
+						  "path": "textures/blocks/cobblestone/0",
+						  "weight": 30
+						},
+						{
+						  "path": "textures/blocks/cobblestone/1",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/2",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/3",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/4",
+						  "weight": 40
+						},
+						{
+						  "path": "textures/blocks/cobblestone/5",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/6",
+						  "weight": 5
+						},
+						{
+						  "path": "textures/blocks/cobblestone/7",
+						  "weight": 20
+						},
+						{
+						  "path": "textures/blocks/cobblestone/8",
+						  "weight": 5
+						}
+					]
+				},
         "textures/blocks/bricks",
         "textures/blocks/stone_bricks",
         "textures/blocks/quartz_block_top",
@@ -2657,7 +2969,46 @@
         "textures/blocks/prismarine",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks",
-        "textures/blocks/cobblestone_mossy",
+        {
+					"variations": [
+						{
+							"path": "textures/blocks/mossy_cobblestone/0",
+							"weight": 30
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/1",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/2",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/3",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/4",
+							"weight": 40
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/5",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/6",
+							"weight": 5
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/7",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/8",
+							"weight": 5
+						}
+					]
+				},
         "textures/blocks/sandstone_top",
         "textures/blocks/red_nether_bricks"
       ]
