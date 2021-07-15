@@ -90,7 +90,9 @@
         "textures/items/cod_bucket",
         "textures/items/salmon_bucket",
         "textures/items/tropical_fish_bucket",
-        "textures/items/pufferfish_bucket"
+        "textures/items/pufferfish_bucket",
+        "textures/items/powder_snow_bucket",
+        "textures/items/axolotl_bucket"
       ]
     },
     "carrot_golden": {
@@ -151,7 +153,8 @@
         "textures/items/black_dye",
         "textures/items/brown_dye",
         "textures/items/blue_dye",
-        "textures/items/white_dye"
+        "textures/items/white_dye",
+        "textures/items/glow_ink_sac"
       ]
     },
     "fireball": {
@@ -176,6 +179,9 @@
     },
     "gold_horse_armor": {
       "textures": "textures/items/golden_horse_armor"
+    },
+		"hanging_roots": {
+      "textures": "textures/blocks/hanging_roots"
     },
     "heart_of_the_sea": {
       "textures": "textures/items/heart_of_the_sea"

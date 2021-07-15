@@ -144,6 +144,12 @@
     "bell_carried": {
       "textures": "textures/items/bell"
     },
+		"big_dripleaf_side1": {
+      "textures": "textures/blocks/big_dripleaf_side"
+    },
+    "big_dripleaf_side2": {
+      "textures": "textures/blocks/big_dripleaf_tip"
+    },
     "birch_planks": {
       "textures": "textures/blocks/birch_planks"
     },
@@ -240,6 +246,75 @@
     },
     "cartography_table_side3": {
       "textures": "textures/blocks/cartography_table_side_3"
+    },
+		"cave_vines_head": {
+      "textures": [
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/cave_vines/unlit/3"
+            },
+            {
+              "path": "textures/blocks/cave_vines/unlit/4"
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/cave_vines/lit/3"
+            },
+            {
+              "path": "textures/blocks/cave_vines/lit/4"
+            }
+          ]
+        }
+      ]
+    },
+    "cave_vines_body": {
+      "textures": [
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/cave_vines/unlit/0"
+            },
+            {
+              "path": "textures/blocks/cave_vines/unlit/1"
+            },
+            {
+              "path": "textures/blocks/cave_vines/unlit/2"
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/cave_vines/lit/0"
+            },
+            {
+              "path": "textures/blocks/cave_vines/lit/1"
+            },
+            {
+              "path": "textures/blocks/cave_vines/lit/2"
+            },
+            {
+              "path": "textures/blocks/cave_vines/lit/4"
+            }
+          ]
+        }
+      ]
+    },
+		"cobbled_deepslate": {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/cobbled/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/cobbled/1"
+          }
+        ]
+      }
     },
     "cobblestone": {
       "textures": {
@@ -554,6 +629,18 @@
         "textures/blocks/dead_horn_coral_fan"
       ]
     },
+    "cracked_deepslate_bricks": {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/bricks/cracked/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/bricks/cracked/1"
+          }
+        ]
+      }
+    },
     "cracked_nether_bricks": {
       "textures": {
         "variations": [
@@ -658,6 +745,60 @@
         ]
       }
     },
+		"deepslate": {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/sides/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/sides/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/sides/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/sides/3"
+          },
+          {
+            "path": "textures/blocks/deepslate/sides/4"
+          }
+        ]
+      }
+    },
+    "deepslate_bricks": {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/bricks/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/bricks/1"
+          }
+        ]
+      }
+    },
+    "deepslate_top": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ends/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/ends/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ends/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ends/3"
+          },
+          {
+            "path": "textures/blocks/deepslate/ends/4"
+          }
+        ]
+      }
+    },
     "destroy": {
       "textures": [
         "textures/blocks/destroy_stage_0",
@@ -725,6 +866,9 @@
     },
     "dirt_podzol_top": {
       "textures": "textures/blocks/podzol_top"
+    },
+		"dirt_with_roots": {
+      "textures": "textures/blocks/rooted_dirt"
     },
     "dispenser_front_horizontal": {
       "textures": "textures/blocks/dispenser_front"
@@ -2116,6 +2260,12 @@
         "textures/blocks/dark_oak_planks"
       ]
     },
+		"pointed_dripstone_merge": {
+      "textures": [
+        "textures/blocks/pointed_dripstone_down_tip_merge",
+        "textures/blocks/pointed_dripstone_up_tip_merge"
+      ]
+    },
     "polished_andesite": {
       "textures": "textures/blocks/polished_andesite"
     },
@@ -2223,6 +2373,27 @@
           {
             "path": "textures/blocks/polished_basalt/ends_f",
             "weight": 1115
+          }
+        ]
+      }
+    },
+		"polished_deepslate": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/polished/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/polished/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/polished/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/polished/3"
+          },
+          {
+            "path": "textures/blocks/deepslate/polished/4"
           }
         ]
       }
