@@ -279,6 +279,14 @@
     "flipbook_texture": "textures/blocks/respawn_anchor_top",
     "atlas_tile": "respawn_anchor_top"
   },
+	{
+    "flipbook_texture": "textures/blocks/sculk_sensor_tendril_active",
+    "atlas_tile": "sculk_sensor_tendril_active",
+  },
+  {
+    "flipbook_texture": "textures/blocks/sculk_sensor_tendril_inactive",
+    "atlas_tile": "sculk_sensor_tendril_inactive",
+  },
   {
     "flipbook_texture": "textures/blocks/seagrass",
     "atlas_tile": "seagrass_short"

@@ -219,7 +219,22 @@
       "textures": "textures/blocks/bookshelf_top"
     },
     "brick": {
-      "textures": "textures/blocks/bricks"
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/brick/0"
+          },
+          {
+            "path": "textures/blocks/brick/1"
+          },
+          {
+            "path": "textures/blocks/brick/2"
+          },
+          {
+            "path": "textures/blocks/brick/3"
+          }
+        ]
+      }
     },
     "brown_glazed_terracotta": {
       "textures": "textures/blocks/brown_glazed_terracotta"
@@ -486,7 +501,22 @@
         "textures/blocks/diorite",
         "textures/blocks/andesite",
         "textures/blocks/sandstone",
-        "textures/blocks/bricks",
+        {
+					"variations": [
+						{
+							"path": "textures/blocks/brick/0"
+						},
+						{
+							"path": "textures/blocks/brick/1"
+						},
+						{
+							"path": "textures/blocks/brick/2"
+						},
+						{
+							"path": "textures/blocks/brick/3"
+						}
+					]
+				},
         "textures/blocks/stone_bricks",
         "textures/blocks/mossy_stone_bricks",
         "textures/blocks/nether_bricks",
@@ -2881,7 +2911,22 @@
 						}
 					]
 				},
-        "textures/blocks/bricks",
+        {
+					"variations": [
+						{
+							"path": "textures/blocks/brick/0"
+						},
+						{
+							"path": "textures/blocks/brick/1"
+						},
+						{
+							"path": "textures/blocks/brick/2"
+						},
+						{
+							"path": "textures/blocks/brick/3"
+						}
+					]
+				},
         "textures/blocks/stone_bricks",
         "textures/blocks/quartz_block_top",
         "textures/blocks/nether_bricks"
@@ -3004,7 +3049,22 @@
 						}
 					]
 				},
-        "textures/blocks/bricks",
+        {
+					"variations": [
+						{
+							"path": "textures/blocks/brick/0"
+						},
+						{
+							"path": "textures/blocks/brick/1"
+						},
+						{
+							"path": "textures/blocks/brick/2"
+						},
+						{
+							"path": "textures/blocks/brick/3"
+						}
+					]
+				},
         "textures/blocks/stone_bricks",
         "textures/blocks/quartz_block_side",
         "textures/blocks/nether_bricks"
@@ -3127,7 +3187,22 @@
 						}
 					]
 				},
-        "textures/blocks/bricks",
+        {
+					"variations": [
+						{
+							"path": "textures/blocks/brick/0"
+						},
+						{
+							"path": "textures/blocks/brick/1"
+						},
+						{
+							"path": "textures/blocks/brick/2"
+						},
+						{
+							"path": "textures/blocks/brick/3"
+						}
+					]
+				},
         "textures/blocks/stone_bricks",
         "textures/blocks/quartz_block_top",
         "textures/blocks/nether_bricks"
