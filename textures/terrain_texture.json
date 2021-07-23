@@ -808,6 +808,158 @@
         ]
       }
     },
+		
+		"deepslate_coal_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/coal/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/coal/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/coal/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/coal/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/coal/4"
+          }
+        ]
+      }
+		},
+		"deepslate_copper_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/copper/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/copper/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/copper/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/copper/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/copper/4"
+          }
+        ]
+      }
+		},
+		"deepslate_diamond_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/diamond/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/diamond/1"
+          }
+        ]
+      }
+		},
+		"deepslate_emerald_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/emerald/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/emerald/1"
+          }
+        ]
+      }
+		},
+		"deepslate_gold_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/gold/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/gold/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/gold/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/gold/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/gold/4"
+          }
+        ]
+      }
+		},
+		"deepslate_iron_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/iron/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/iron/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/iron/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/iron/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/iron/4"
+          }
+        ]
+      }
+		},
+		"deepslate_lapis_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/lapis/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/lapis/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/lapis/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/lapis/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/lapis/4"
+          }
+        ]
+      }
+		},
+		"deepslate_redstone_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/redstone/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/redstone/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/redstone/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/redstone/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/redstone/4"
+          }
+        ]
+      }
+		},
+		
     "deepslate_top": {
       "textures": {
         "variations": [
