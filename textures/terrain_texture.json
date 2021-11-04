@@ -972,6 +972,39 @@
         ]
       }
     },
+		
+		"deepslate_tiles": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/tiles/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/tiles/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/tiles/2"
+          }
+        ]
+      }
+    },
+		
+		"cracked_deepslate_tiles": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/tiles/cracked/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/tiles/cracked/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/tiles/cracked/2"
+          }
+        ]
+      }
+    },
+		
     "destroy": {
       "textures": [
         "textures/blocks/destroy_stage_0",
@@ -3386,9 +3419,6 @@
     },
     "polished_granite": {
       "textures": "textures/blocks/polished_granite"
-    },
-    "portal": {
-      "textures": "textures/blocks/nether_portal"
     },
     "potatoes": {
       "textures": [
