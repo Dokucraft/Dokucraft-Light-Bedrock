@@ -384,6 +384,9 @@
     "record_mellohi": {
       "textures": "textures/items/music_disc_mellohi"
     },
+		"record_otherside": {
+      "textures": "textures/items/music_disc_otherside"
+    },
     "record_pigstep": {
       "textures": "textures/items/music_disc_pigstep"
     },
