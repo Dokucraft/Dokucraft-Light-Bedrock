@@ -802,7 +802,6 @@
         ]
       }
     },
-		
 		"deepslate_coal_ore" : {
 			"textures": {
         "variations": [
@@ -953,7 +952,6 @@
         ]
       }
 		},
-		
     "deepslate_top": {
       "textures": {
         "variations": [
@@ -972,7 +970,6 @@
         ]
       }
     },
-		
 		"deepslate_tiles": {
       "textures": {
         "variations": [
@@ -988,7 +985,6 @@
         ]
       }
     },
-		
 		"cracked_deepslate_tiles": {
       "textures": {
         "variations": [
@@ -1004,7 +1000,6 @@
         ]
       }
     },
-		
     "destroy": {
       "textures": [
         "textures/blocks/destroy_stage_0",
