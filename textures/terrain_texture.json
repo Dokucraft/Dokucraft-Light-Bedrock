@@ -762,6 +762,9 @@
           },
           {
             "path": "textures/blocks/plants/dead_bush/4"
+          },
+          {
+            "path": "textures/blocks/plants/dead_bush/5"
           }
         ]
       }
@@ -3540,6 +3543,9 @@
             },
             {
               "path": "textures/blocks/plants/poppy/4"
+            },
+            {
+              "path": "textures/blocks/plants/poppy/5"
             }
           ]
         },
