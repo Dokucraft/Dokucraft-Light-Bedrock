@@ -281,11 +281,11 @@
   },
 	{
     "flipbook_texture": "textures/blocks/sculk_sensor_tendril_active",
-    "atlas_tile": "sculk_sensor_tendril_active",
+    "atlas_tile": "sculk_sensor_tendril_active"
   },
   {
     "flipbook_texture": "textures/blocks/sculk_sensor_tendril_inactive",
-    "atlas_tile": "sculk_sensor_tendril_inactive",
+    "atlas_tile": "sculk_sensor_tendril_inactive"
   },
   {
     "flipbook_texture": "textures/blocks/seagrass",
