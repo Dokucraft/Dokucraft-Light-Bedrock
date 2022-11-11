@@ -1327,7 +1327,7 @@
       "textures": "textures/blocks/granite"
     },
     "grass_bottom" : {
-			"textures" : [
+			"textures": [
 				{
 					"variations": [
             {
@@ -2791,6 +2791,9 @@
     },
     "magenta_glazed_terracotta": {
       "textures": "textures/blocks/magenta_glazed_terracotta"
+    },
+    "mangrove_log_side" : {
+      "textures": "textures/blocks/mangrove_log"
     },
     "melon_stem": {
       "textures": [
@@ -4304,6 +4307,9 @@
     },
     "stripped_crimson_stem_top": {
       "textures": "textures/blocks/stripped_crimson_stem_top"
+    },
+    "stripped_mangrove_log_side" : {
+      "textures": "textures/blocks/stripped_mangrove_log"
     },
     "stripped_warped_stem_side": {
       "textures": "textures/blocks/stripped_warped_stem_side"
