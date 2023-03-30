@@ -46,14 +46,17 @@
     "birch_door": {
       "textures": "textures/items/birch_door"
     },
-    "boat": {
+		"boat": {
       "textures": [
         "textures/items/oak_boat",
         "textures/items/spruce_boat",
         "textures/items/birch_boat",
         "textures/items/jungle_boat",
         "textures/items/acacia_boat",
-        "textures/items/dark_oak_boat"
+        "textures/items/dark_oak_boat",
+        "textures/items/mangrove_boat",
+        "textures/items/bamboo_raft",
+        "textures/items/cherry_boat"
       ]
     },
     "book_enchanted": {
