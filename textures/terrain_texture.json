@@ -1313,7 +1313,19 @@
       "textures": "textures/blocks/dropper_front"
     },
     "end_bricks": {
-      "textures": "textures/blocks/end_stone_bricks"
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/end_stone_bricks"
+          },
+          {
+            "path": "textures/blocks/end_stone_bricks_3"
+          },
+          {
+            "path": "textures/blocks/end_stone_bricks_2"
+          }
+        ]
+      }
     },
     "endframe_eye": {
       "textures": "textures/blocks/end_portal_frame_eye"
