@@ -4,7 +4,7 @@
     "version" : [ 1, 21, 20 ],
     "description" : "\u00A74Light and fluffy\n\u00A76By Dokucraft TSC",
     "name" : "Dokucraft Light",
-    "uuid" : "66c6e9a8-3093-462a-9c36-dbb052165822",
+    "uuid" : "bd419176-b9b7-467d-8e32-ef8080657714",
     "min_engine_version": [ 1, 16, 0 ]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "version" : [ 1, 21, 20 ],
       "description" : "\u00A74Light and fluffy\n\u00A76By Dokucraft TSC",
       "type" : "resources",
-      "uuid" : "743f6949-53be-44b6-b326-398005028819"
+      "uuid" : "1e62a1e8-a7d3-47a5-9cf4-5d57ab263dc2"
     }
   ]
 }
