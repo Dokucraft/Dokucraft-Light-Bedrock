@@ -4616,6 +4616,9 @@
 		"red_sandstone_slab_side": {
 			"textures": "textures/blocks/red_sandstone"
 		},
+		"red_sandstone_wall": {
+      "textures": "textures/blocks/red_sandstone"
+    },
 		"redstone_lamp_off": {
 			"textures": "textures/blocks/redstone_lamp"
 		},
@@ -4709,6 +4712,9 @@
 		"sandstone_slab_side": {
 			"textures":	"textures/blocks/sandstone"
 		},
+		"sandstone_wall": {
+      "textures": "textures/blocks/sandstone"
+    },
 		"sapling": {
 			"textures": [
 				"textures/blocks/oak_sapling",
@@ -4741,12 +4747,6 @@
 		},
 		"smooth_quartz_slab": {
 			"textures": "textures/blocks/quartz_block_bottom"
-		},
-		"smooth_red_sandstone_slab": {
-			"textures": "textures/blocks/red_sandstone_top"
-		},
-		"smooth_sandstone_slab": {
-			"textures": "textures/blocks/sandstone_top"
 		},
 		"smooth_stone": {
 			"textures": "textures/blocks/smooth_stone"
