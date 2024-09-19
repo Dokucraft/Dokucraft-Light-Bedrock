@@ -84,6 +84,9 @@
 		"andesite_slab": {
 			"textures": "textures/blocks/andesite"
 		},
+		"andesite_wall": {
+      "textures": "textures/blocks/andesite"
+    },
 		"anvil_base": {
 			"textures": [
 				"textures/blocks/anvil",
@@ -444,6 +447,24 @@
 				]
 			}
 		},
+		"brick_wall": {
+			"textures": {
+				"variations": [
+					{
+						"path": "textures/blocks/brick/0"
+					},
+					{
+						"path": "textures/blocks/brick/1"
+					},
+					{
+						"path": "textures/blocks/brick/2"
+					},
+					{
+						"path": "textures/blocks/brick/3"
+					}
+				]
+			}
+		},
 		"brown_concrete": {
 			"textures": "textures/blocks/brown_concrete"
 		},
@@ -730,129 +751,6 @@
 					}
 				]
 			}
-		},
-		"cobblestone_wall": {
-			"textures": [
-				{
-					"variations": [
-						{
-							"path": "textures/blocks/cobblestone/0",
-							"weight": 30
-						},
-						{
-							"path": "textures/blocks/cobblestone/1",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/cobblestone/2",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/cobblestone/3",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/cobblestone/4",
-							"weight": 40
-						},
-						{
-							"path": "textures/blocks/cobblestone/5",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/cobblestone/6",
-							"weight": 5
-						},
-						{
-							"path": "textures/blocks/cobblestone/7",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/cobblestone/8",
-							"weight": 5
-						}
-					]
-				},
-				{
-					"variations": [
-						{
-							"path": "textures/blocks/mossy_cobblestone/0",
-							"weight": 30
-						},
-						{
-							"path": "textures/blocks/mossy_cobblestone/1",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/mossy_cobblestone/2",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/mossy_cobblestone/3",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/mossy_cobblestone/4",
-							"weight": 40
-						},
-						{
-							"path": "textures/blocks/mossy_cobblestone/5",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/mossy_cobblestone/6",
-							"weight": 5
-						},
-						{
-							"path": "textures/blocks/mossy_cobblestone/7",
-							"weight": 20
-						},
-						{
-							"path": "textures/blocks/mossy_cobblestone/8",
-							"weight": 5
-						}
-					]
-				},
-				"textures/blocks/granite",
-				"textures/blocks/diorite",
-				"textures/blocks/andesite",
-				"textures/blocks/sandstone",
-				{
-					"variations": [
-						{
-							"path": "textures/blocks/brick/0"
-						},
-						{
-							"path": "textures/blocks/brick/1"
-						},
-						{
-							"path": "textures/blocks/brick/2"
-						},
-						{
-							"path": "textures/blocks/brick/3"
-						}
-					]
-				},
-				"textures/blocks/stone_bricks",
-				"textures/blocks/mossy_stone_bricks",
-				"textures/blocks/nether_bricks",
-				{
-					"variations": [
-						{
-							"path": "textures/blocks/end_stone_bricks"
-						},
-						{
-							"path": "textures/blocks/end_stone_bricks_3"
-						},
-						{
-							"path": "textures/blocks/end_stone_bricks_2"
-						}
-					]
-				},
-				"textures/blocks/prismarine_rough",
-				"textures/blocks/red_sandstone",
-				"textures/blocks/red_nether_bricks"
-			]
 		},
 		"cocoa": {
 			"textures": [
@@ -1381,6 +1279,9 @@
 		"diorite_slab": {
 			"textures": "textures/blocks/diorite"
 		},
+		"diorite_wall": {
+      "textures": "textures/blocks/diorite"
+    },
 		"dirt": {
 			"textures": [
 				{
@@ -1542,10 +1443,10 @@
 						"path": "textures/blocks/end_stone_bricks"
 					},
 					{
-						"path": "textures/blocks/end_stone_bricks_3"
+						"path": "textures/blocks/end_stone_bricks_2"
 					},
 					{
-						"path": "textures/blocks/end_stone_bricks_2"
+						"path": "textures/blocks/end_stone_bricks_3"
 					}
 				]
 			}
@@ -1566,14 +1467,29 @@
 						"path": "textures/blocks/end_stone_bricks"
 					},
 					{
-						"path": "textures/blocks/end_stone_bricks_3"
+						"path": "textures/blocks/end_stone_bricks_2"
 					},
 					{
-						"path": "textures/blocks/end_stone_bricks_2"
+						"path": "textures/blocks/end_stone_bricks_3"
 					}
 				]
 			}
 		},
+		"end_stone_brick_wall": {
+			"textures": {
+				"variations": [
+					{
+						"path": "textures/blocks/end_stone_bricks"
+					},
+					{
+						"path": "textures/blocks/end_stone_bricks_2"
+					},
+					{
+						"path": "textures/blocks/end_stone_bricks_3"
+					}
+				]
+			}
+    },
 		"farmland": {
 			"textures": [
 				"textures/blocks/farmland_moist",
@@ -1627,6 +1543,50 @@
 		},
 		"flattened_anvil_top": {
 			"textures": "textures/blocks/anvil_top"
+		},
+		"flattened_cobblestone_wall": {
+			"textures": [
+				{
+					"variations": [
+						{
+							"path": "textures/blocks/cobblestone/0",
+							"weight": 30
+						},
+						{
+							"path": "textures/blocks/cobblestone/1",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/cobblestone/2",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/cobblestone/3",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/cobblestone/4",
+							"weight": 40
+						},
+						{
+							"path": "textures/blocks/cobblestone/5",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/cobblestone/6",
+							"weight": 5
+						},
+						{
+							"path": "textures/blocks/cobblestone/7",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/cobblestone/8",
+							"weight": 5
+						}
+					]
+				}
+			]
 		},
 		"flattened_dirt": {
 			"textures": {
@@ -1811,6 +1771,9 @@
 		"granite_slab": {
 			"textures": "textures/blocks/granite"
 		},
+		"granite_wall": {
+      "textures": "textures/blocks/granite"
+    },
 		"grass_bottom": {
 			"textures": [
 				{
@@ -3640,6 +3603,50 @@
 				]
 			}
 		},
+		"mossy_cobblestone_wall": {
+			"textures": [
+				{
+					"variations": [
+						{
+							"path": "textures/blocks/mossy_cobblestone/0",
+							"weight": 30
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/1",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/2",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/3",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/4",
+							"weight": 40
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/5",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/6",
+							"weight": 5
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/7",
+							"weight": 20
+						},
+						{
+							"path": "textures/blocks/mossy_cobblestone/8",
+							"weight": 5
+						}
+					]
+				}
+			]
+		},
 		"mossy_stone_brick": {
 			"textures": "textures/blocks/mossy_stone_bricks"
 		},
@@ -3649,6 +3656,9 @@
 		"mossy_stone_brick_slab": {
 			"textures": "textures/blocks/mossy_stone_bricks"
 		},
+		"mossy_stone_brick_wall": {
+      "textures": "textures/blocks/mossy_stone_bricks"
+    },
 		"mushroom_block": {
 			"textures": [
 				"textures/blocks/brown_mushroom_block",
@@ -3981,6 +3991,9 @@
 		"nether_brick_slab": {
 			"textures": "textures/blocks/nether_bricks"
 		},
+		"nether_brick_wall": {
+      "textures": "textures/blocks/nether_bricks"
+    },
 		"nether_shroom_blue": {
 			"textures": {
 				"variations": [
@@ -5002,10 +5015,10 @@
 							"path": "textures/blocks/end_stone_bricks"
 						},
 						{
-							"path": "textures/blocks/end_stone_bricks_3"
+							"path": "textures/blocks/end_stone_bricks_2"
 						},
 						{
-							"path": "textures/blocks/end_stone_bricks_2"
+							"path": "textures/blocks/end_stone_bricks_3"
 						}
 					]
 				},
@@ -5152,10 +5165,10 @@
 							"path": "textures/blocks/end_stone_bricks"
 						},
 						{
-							"path": "textures/blocks/end_stone_bricks_3"
+							"path": "textures/blocks/end_stone_bricks_2"
 						},
 						{
-							"path": "textures/blocks/end_stone_bricks_2"
+							"path": "textures/blocks/end_stone_bricks_3"
 						}
 					]
 				},
@@ -5302,10 +5315,10 @@
 							"path": "textures/blocks/end_stone_bricks"
 						},
 						{
-							"path": "textures/blocks/end_stone_bricks_3"
+							"path": "textures/blocks/end_stone_bricks_2"
 						},
 						{
-							"path": "textures/blocks/end_stone_bricks_2"
+							"path": "textures/blocks/end_stone_bricks_3"
 						}
 					]
 				},
@@ -5341,6 +5354,9 @@
 		"stone_brick_slab": {
 			"textures": "textures/blocks/stone_bricks"
 		},
+		"stone_brick_wall": {
+      "textures": "textures/blocks/stone_bricks"
+    },
 		"stonecutter2_bottom": {
 			"textures": "textures/blocks/stonecutter_bottom"
 		},
