@@ -2605,6 +2605,10 @@
 					"overlay_color" : "#518838",
 					"path": "textures/blocks/grass_block_side"
 				},
+				{
+					"overlay_color" : "#778272",
+					"path": "textures/blocks/grass_block_side"
+				},
 				"textures/blocks/grass_block_snow"
 			]
 		},
@@ -3985,6 +3989,58 @@
 				"textures/blocks/grass_block_snow"
 			]
 		},
+		"mushroom_stem_top": {
+      "textures": [
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_block_inside",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem"
+      ]
+    },
+    "mushroom_stem_bottom": {
+      "textures": [
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_block_inside",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem",
+        "textures/blocks/mushroom_stem"
+      ]
+    },
+    "mushroom_stem_north": {
+      "textures": "textures/blocks/mushroom_stem"
+    },
+    "mushroom_stem_south": {
+      "textures": "textures/blocks/mushroom_stem"
+    },
+    "mushroom_stem_west": {
+      "textures": "textures/blocks/mushroom_stem"
+    },
+    "mushroom_stem_east": {
+      "textures": "textures/blocks/mushroom_stem"
+    },
 		"nether_brick": {
 			"textures": "textures/blocks/nether_bricks"
 		},
@@ -5382,7 +5438,7 @@
 			"textures": "textures/blocks/stripped_cherry_log"
 		},
 		"stripped_crimson_stem_side": {
-			"textures": "textures/blocks/stripped_crimson_stem_side"
+			"textures": "textures/blocks/stripped_crimson_stem"
 		},
 		"stripped_crimson_stem_top": {
 			"textures": "textures/blocks/stripped_crimson_stem_top"
@@ -5391,7 +5447,7 @@
 			"textures": "textures/blocks/stripped_mangrove_log"
 		},
 		"stripped_warped_stem_side": {
-			"textures": "textures/blocks/stripped_warped_stem_side"
+			"textures": "textures/blocks/stripped_warped_stem"
 		},
 		"stripped_warped_stem_top": {
 			"textures": "textures/blocks/stripped_warped_stem_top"
