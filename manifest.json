@@ -5,7 +5,7 @@
     "description" : "\u00A74Light and fluffy\n\u00A76By Dokucraft TSC",
     "name" : "Dokucraft Light",
     "uuid" : "bd419176-b9b7-467d-8e32-ef8080657714",
-    "min_engine_version": [ 1, 16, 0 ]
+    "min_engine_version": [ 1, 26, 0 ]
   },
   "modules": [
     {
